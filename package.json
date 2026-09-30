@@ -1,0 +1,17 @@
+{
+  "name": "nodelink-plugin-live-stream",
+  "version": "1.0.0",
+  "description": "Expose the live audio a NodeLink player is currently broadcasting to Discord over a plain HTTP stream",
+  "type": "module",
+  "main": "index.ts",
+  "author": "NodeLink Community",
+  "license": "MIT",
+  "keywords": [
+    "nodelink",
+    "nodelink-plugin",
+    "live",
+    "stream",
+    "opus",
+    "ogg"
+  ]
+}
